@@ -1,0 +1,17 @@
+* {
+  margin: 1;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: grey;
+}
+
+h1 {
+  color: antiquewhite;
+}
+
+p {
+  color: blueviolet;
+}
